@@ -1,0 +1,62 @@
+name: 🐛 Bug report
+description: Something in Token Forest isn't working right
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping us squash bugs! 🌳 A few details make all the difference.
+  - type: dropdown
+    id: os
+    attributes:
+      label: Operating system
+      options:
+        - Windows 11
+        - Windows 10
+        - macOS (Apple Silicon)
+        - macOS (Intel)
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Token Forest version
+      description: Shown in the right-click menu / on the download page.
+      placeholder: e.g. beta 2026-07
+    validations:
+      required: false
+  - type: dropdown
+    id: tool
+    attributes:
+      label: Which AI tool(s) do you use with Token Forest?
+      multiple: true
+      options:
+        - Claude Code
+        - Codex
+    validations:
+      required: false
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: What did you see, and what did you expect instead?
+      placeholder: The tree stopped growing after…
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Start Token Forest
+        2. …
+    validations:
+      required: false
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots
+      description: Drag & drop images here if they help show the problem.
+    validations:
+      required: false

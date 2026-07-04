@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" shape-rendering="crispEdges" role="img" aria-label="Token-Forest">
+  <!-- canopy -->
+  <rect x="4" y="1" width="8" height="7" fill="#3a7d44" />
+  <rect x="3" y="2" width="10" height="5" fill="#3a7d44" />
+  <!-- leaf highlights -->
+  <rect x="4" y="2" width="2" height="2" fill="#7bd88f" />
+  <rect x="6" y="4" width="2" height="1" fill="#7bd88f" />
+  <!-- apple -->
+  <rect x="9" y="3" width="2" height="2" fill="#c8943c" />
+  <!-- trunk -->
+  <rect x="7" y="7" width="2" height="5" fill="#7a5a3a" />
+  <!-- ground -->
+  <rect x="4" y="12" width="8" height="1" fill="#a07850" />
+</svg>

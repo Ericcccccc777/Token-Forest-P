@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 🌐 Token Forest website
+    url: https://www.tokenforest.com.au
+    about: Downloads, the global leaderboard, and more.
+  - name: ✉️ Email the team
+    url: mailto:contact@tokenforest.com.au
+    about: Questions, press, partnerships — or anything that doesn't fit an issue.
+  - name: 🔐 Report a security issue
+    url: https://www.tokenforest.com.au
+    about: Please email contact@tokenforest.com.au with a subject starting with [SECURITY] — not a public issue.

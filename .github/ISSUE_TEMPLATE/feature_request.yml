@@ -1,0 +1,39 @@
+name: 💡 Feature request
+description: An idea to make the forest better
+title: "[Idea] "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        The roadmap grows in the direction of the light — thanks for pointing some our way! 🌱
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem would this solve?
+      description: Tell us about the itch before the scratch — it helps us design the right thing.
+      placeholder: When I'm working full-screen, I can't see…
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: Your idea
+      placeholder: It would be lovely if…
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: Which part of Token Forest is this about?
+      options:
+        - The tree & growth
+        - Species & decorations
+        - Fruit & shop
+        - Bubbles / capsule mode
+        - Dashboard & stats
+        - Leaderboard / website
+        - Settings & window behavior
+        - Something else
+    validations:
+      required: false

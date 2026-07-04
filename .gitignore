@@ -1,0 +1,8 @@
+.DS_Store
+Thumbs.db
+
+# Local Claude Code session config — not part of the public showcase
+.claude/
+
+# Stray raw screenshot (real usernames); the showcase uses assets/leaderboard*.png
+/leaderboard.png
