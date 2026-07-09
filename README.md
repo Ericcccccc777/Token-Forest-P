@@ -155,6 +155,7 @@ Token Forest is built by a small team that spends *way* too many tokens — whic
 - ✉️ Email — [contact@tokenforest.com.au](mailto:contact@tokenforest.com.au)
 - 🐛 Bugs & ideas — [open an issue](../../issues/new/choose)
 - 🔐 Security — see [SECURITY.md](SECURITY.md)
+- 📄 Terms of use — see [EULA.md](EULA.md)
 
 ---
 
