@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 140" role="img" aria-label="Grace Hopper — 840.0M tokens · Apple · stage 4 — #4" font-family="'Segoe UI',system-ui,sans-serif">
+      <rect width="460" height="140" rx="10" fill="#faf5ea" stroke="#7a5a3a" stroke-width="2"/>
+      <rect width="460" height="30" rx="10" fill="#c4dce8"/><rect y="20" width="460" height="10" fill="#c4dce8"/>
+      <rect y="132" width="460" height="8" fill="#3a7d44"/><rect y="130" width="460" height="4" fill="#3a7d44"/>
+      
+      <rect x="34" y="54" width="36" height="30" fill="#3a7d44"/><rect x="31" y="60" width="42" height="21" fill="#3a7d44"/><rect x="34" y="60" width="9" height="9" fill="#7bd88f"/><rect x="61" y="66" width="9" height="9" fill="#c8943c"/><rect x="49" y="84" width="6" height="18" fill="#7a5a3a"/>
+      <text x="120" y="50" fill="#3a7d44" font-size="13" font-weight="700" letter-spacing="1">TOKEN FOREST</text>
+      <text x="120" y="76" fill="#1e2521" font-size="20" font-weight="700">Grace Hopper</text>
+      <rect x="368" y="40" width="72" height="30" rx="6" fill="#3a7d44"/>
+      <text x="404" y="60" fill="#ffffff" font-size="17" font-weight="800" text-anchor="middle">#4</text>
+      <text x="120" y="112"><tspan fill="#3a7d44" font-size="22" font-weight="800">840.0M tokens</tspan><tspan fill="#5a6b5e" font-size="13" dx="7">· Apple · stage 4</tspan></text></svg>

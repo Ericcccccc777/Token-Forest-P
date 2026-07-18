@@ -6,9 +6,12 @@ Public release notes for Token Forest. Dates are when features reached the beta.
 
 ## July 2026 — the forest grows
 
+- 🌍 **Every model you run, priced right** — the Dashboard now recognizes DeepSeek, Kimi, GLM (Zhipu), Qwen, MiniMax and Xiaomi MiMo — when you route them through Claude Code or Codex — as their own providers and prices them at their own rates, instead of lumping them under Claude/Codex (where their cost was silently dropped).
+- 🪪 **README badges** — every leaderboard player gets an embeddable badge that leads with your token count, shows your worldwide rank, and draws your current tree species. Grab yours from the app's **Badge Setup**.
+- 🔧 **Leaderboard reliability** — fixed the root cause of a sync issue that could quietly drop an opted-in player off the board.
 - 🎄 **Christmas Tree — the fourth species** — a snow-dusted pine, unlocked at the end of the progression chain. Hang ornaments, string the lights, and trim it all the way to "Christmas Splendor." Every species now carries its own fruit and its own set of stage names.
 - 🌏 **Now in four languages** — the app UI speaks English, 中文, 日本語 and 한국어 (the website already did).
-- 📊 **Dashboard is feature-complete** — growth, usage and per-conversation receipts, a 26-week heatmap, per-project splits and offline pricing — shipping with the next release.
+- 📊 **Dashboard** — growth, usage and per-conversation receipts, a 26-week heatmap, per-project splits and offline pricing across every provider — now shipping.
 - 💊 **Capsule mode** — Dynamic-Island-style mini pill: see which engine is running and whether it's done, without the full tree on screen.
 - 🌸 **Two new species** — Cherry Blossom and Cactus join the Apple Tree, each with its own themed decorations (torii gate, stone lantern, wind chimes, bamboo fence, and more).
 - 🍎 **Fruit & shop** — mature trees bear fruit; harvest it and spend it on decorations you can equip per tree.

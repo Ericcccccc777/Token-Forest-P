@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 140" role="img" aria-label="Ada Lovelace — 2.3B tokens · Cherry · stage 8 — #3" font-family="'Segoe UI',system-ui,sans-serif">
+      <rect width="460" height="140" rx="10" fill="#faf5ea" stroke="#7a5a3a" stroke-width="2"/>
+      <rect width="460" height="30" rx="10" fill="#c4dce8"/><rect y="20" width="460" height="10" fill="#c4dce8"/>
+      <rect y="132" width="460" height="8" fill="#3a7d44"/><rect y="130" width="460" height="4" fill="#3a7d44"/>
+      
+      <rect x="40" y="54" width="24" height="6" fill="#f2a8c0"/><rect x="34" y="57" width="36" height="9" fill="#f2a8c0"/><rect x="31" y="63" width="42" height="9" fill="#f2a8c0"/><rect x="34" y="72" width="36" height="6" fill="#f2a8c0"/><rect x="37" y="78" width="12" height="6" fill="#f2a8c0"/><rect x="55" y="78" width="12" height="6" fill="#f2a8c0"/><rect x="37" y="57" width="6" height="6" fill="#ffd8e6"/><rect x="52" y="54" width="6" height="6" fill="#ffd8e6"/><rect x="61" y="60" width="6" height="6" fill="#ffd8e6"/><rect x="43" y="69" width="6" height="6" fill="#ffd8e6"/><rect x="58" y="72" width="6" height="3" fill="#ffd8e6"/><rect x="55" y="63" width="6" height="6" fill="#e07ba0"/><rect x="34" y="66" width="6" height="3" fill="#e07ba0"/><rect x="49" y="84" width="6" height="18" fill="#7a5a3a"/><rect x="40" y="90" width="3" height="3" fill="#ffd8e6"/><rect x="61" y="93" width="3" height="3" fill="#f2a8c0"/>
+      <text x="120" y="50" fill="#3a7d44" font-size="13" font-weight="700" letter-spacing="1">TOKEN FOREST</text>
+      <text x="120" y="76" fill="#1e2521" font-size="20" font-weight="700">Ada Lovelace</text>
+      <rect x="368" y="40" width="72" height="30" rx="6" fill="#3a7d44"/>
+      <text x="404" y="60" fill="#ffffff" font-size="17" font-weight="800" text-anchor="middle">#3</text>
+      <text x="120" y="112"><tspan fill="#3a7d44" font-size="22" font-weight="800">2.3B tokens</tspan><tspan fill="#5a6b5e" font-size="13" dx="7">· Cherry · stage 8</tspan></text></svg>

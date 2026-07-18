@@ -68,9 +68,23 @@ Feeling competitive? Opt in to the [global leaderboard](https://www.tokenforest.
 
 <img src="assets/leaderboard.png" alt="The global leaderboard, ranking players by the tokens they've grown into their trees" width="100%" />
 
+### 🪪 A README badge for your rank
+
+Every leaderboard player gets a live **README badge** — it leads with your token count, shows your worldwide rank, and draws the very species you're currently growing. Switch your main tree in the app and the badge follows.
+
+<div align="center">
+<img src="assets/badge-cactus.svg" alt="Token Forest badge — cactus, rank #1" width="47%" />&nbsp;
+<img src="assets/badge-christmas.svg" alt="Token Forest badge — Christmas tree, rank #2" width="47%" />
+<br/>
+<img src="assets/badge-cherry.svg" alt="Token Forest badge — cherry blossom, rank #3" width="47%" />&nbsp;
+<img src="assets/badge-apple.svg" alt="Token Forest badge — apple tree, rank #4" width="47%" />
+</div>
+
+Grab yours from the app: the leaderboard menu's **Badge Setup** copies a snippet pointing at *your* badge — paste it into any GitHub README (a repo named after your username makes a neat profile card). *Names and ranks above are illustrative.*
+
 ### 📊 Dashboard — live in the app
 
-A report card for your forest: days planted, lifetime tokens, a growth curve over time, per-model breakdowns for Claude and Codex, a 26-week activity heatmap, per-project splits, and one honest line per conversation — with a cost estimate computed **offline** from a built-in price table (four token classes priced separately, cache reads at 0.1×).
+A report card for your forest: days planted, lifetime tokens, a growth curve over time, per-provider cost breakdowns, a 26-week activity heatmap, per-project splits, and one honest line per conversation — with a cost estimate computed **offline** from a built-in price table (four token classes priced separately, cache reads at 0.1×). It prices **every model you actually run** — not just Claude and Codex, but DeepSeek, Kimi, GLM, Qwen, MiniMax and more when you route them through your CLI.
 
 ### And the quality-of-life details
 
@@ -133,7 +147,7 @@ The short version — see the full [roadmap](docs/ROADMAP.md) for details.
 
 | | |
 | --- | --- |
-| ✅ Shipped | Live token tracking (Claude Code + Codex) · 8-stage growth · **4 species (incl. 🎄 Christmas Tree)** with decorations · fruit & shop · bubbles · capsule mode · **stats dashboard** · opt-in leaderboard · Windows & macOS · English / 中文 / 日本語 / 한국어 |
+| ✅ Shipped | Live token tracking (Claude Code + Codex) · 8-stage growth · **4 species (incl. 🎄 Christmas Tree)** with decorations · fruit & shop · bubbles · capsule mode · **stats dashboard** with multi-provider pricing · opt-in leaderboard **+ README badges** · Windows & macOS · English / 中文 / 日本語 / 한국어 |
 | 🚧 In progress | One-click installers · **🌲 the next species** |
 | 🔭 Next | Seasons & day/night · offline catch-up growth · achievements & streaks · more species, decorations and supported AI tools |
 

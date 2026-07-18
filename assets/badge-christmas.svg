@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 140" role="img" aria-label="Alan Turing — 5.1B tokens · Christmas · stage 6 — #2" font-family="'Segoe UI',system-ui,sans-serif">
+      <rect width="460" height="140" rx="10" fill="#faf5ea" stroke="#7a5a3a" stroke-width="2"/>
+      <rect width="460" height="30" rx="10" fill="#c4dce8"/><rect y="20" width="460" height="10" fill="#c4dce8"/>
+      <rect y="132" width="460" height="8" fill="#3a7d44"/><rect y="130" width="460" height="4" fill="#3a7d44"/>
+      
+      <rect x="50.5" y="54" width="3" height="9" fill="#c8943c"/><rect x="47.5" y="57" width="9" height="3" fill="#c8943c"/><rect x="46" y="63" width="12" height="6" fill="#2f6b3d"/><rect x="43" y="69" width="18" height="6" fill="#2f6b3d"/><rect x="40" y="75" width="24" height="6" fill="#2f6b3d"/><rect x="37" y="81" width="30" height="6" fill="#2f6b3d"/><rect x="34" y="87" width="36" height="6" fill="#2f6b3d"/><rect x="49" y="93" width="6" height="9" fill="#7a5a3a"/><rect x="46" y="63" width="6" height="3" fill="#ffffff"/><rect x="55" y="69" width="3" height="3" fill="#d1495b"/><rect x="43" y="78" width="3" height="3" fill="#c4dce8"/><rect x="58" y="87" width="3" height="3" fill="#c8943c"/>
+      <text x="120" y="50" fill="#3a7d44" font-size="13" font-weight="700" letter-spacing="1">TOKEN FOREST</text>
+      <text x="120" y="76" fill="#1e2521" font-size="20" font-weight="700">Alan Turing</text>
+      <rect x="368" y="40" width="72" height="30" rx="6" fill="#3a7d44"/>
+      <text x="404" y="60" fill="#ffffff" font-size="17" font-weight="800" text-anchor="middle">#2</text>
+      <text x="120" y="112"><tspan fill="#3a7d44" font-size="22" font-weight="800">5.1B tokens</tspan><tspan fill="#5a6b5e" font-size="13" dx="7">· Christmas · stage 6</tspan></text></svg>
